@@ -1,5 +1,8 @@
-Proyek Membangun Web Server
+#Proyek Membangun Web Server
 
-Menyiapkan Web Server
-Mengonfigurasi NGINX sebagai Reverse Proxy Server
-Menerapkan Limit Access di NGINX
+
+1. Menyiapkan Web Server
+
+2. Mengonfigurasi NGINX sebagai Reverse Proxy Server
+
+3. Menerapkan Limit Access di NGINX
